@@ -22,5 +22,5 @@ What is the optimal RFM threshold for targeting, given the trade-off between rea
 ## Screenshots
 ![Patterns](assets/1.Patterns.png)
 ![Segmentation](assets/2.Segmentation.png)
-![Predictive targeting](assets/3.Predictive targeting.png)
-![Targeting simulator](assets/4.Targeting simulator.png)
+![Predictive-targeting](assets/3.Predictive targeting.png)
+![Targeting-simulator](assets/4.Targeting simulator.png)
